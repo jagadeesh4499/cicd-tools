@@ -8,7 +8,7 @@ Pipeline Utility Steps
 AWS Credentials
 AWS Steps
 Rebuild
-Ansi Color
+Ansi Color (Restart jenkins after installation)
 SonarScanner
 Restart Jenkins once plugins are installed
 
